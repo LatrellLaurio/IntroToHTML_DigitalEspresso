@@ -1,0 +1,57 @@
+.header{
+    background-color: rgb(165, 42, 42);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.header img{
+    float: left;
+    width: 80px;
+}
+.page{
+    background-color: rgb(165, 42, 42);
+    color: white;
+    text-align: center;
+}
+.page a{
+    text-align: center;
+    font-size: x-large;
+    color: white
+}
+.general{
+    font-size: xx-large;
+}
+.general a{
+    text-align: center;
+    font-size: large;
+}
+.menu{
+    background-color: rgb(255, 255, 255);
+}
+.menu a{
+    color: black;
+}
+.menu img{
+    width: 100px;
+}
+.product{
+    background-color: rgb(255, 255, 255);
+}
+.product img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.product h1{
+    text-align: center;
+}
+.product p{
+    text-align: center;
+    font-size: larger;
+}
+.footer{
+    background-color: rgb(165, 42, 42);
+    text-align: center;
+    color: white;
+}
